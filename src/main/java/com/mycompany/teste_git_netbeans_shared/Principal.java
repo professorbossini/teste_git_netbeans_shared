@@ -13,5 +13,6 @@ public class Principal {
     public static void main(String[] args) {
         System.out.println("Oi Tupi!");
         System.out.println ("Tchau, segunda");
+        System.out.println ("bora preparar rango");
     }
 }
