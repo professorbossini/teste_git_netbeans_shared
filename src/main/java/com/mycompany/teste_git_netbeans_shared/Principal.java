@@ -11,6 +11,6 @@ package com.mycompany.teste_git_netbeans_shared;
  */
 public class Principal {
     public static void main(String[] args) {
-        System.out.println("Oi");
+        System.out.println("Oi Tupi!");
     }
 }
